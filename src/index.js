@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   return res.json({
-    message: "Hello World Ignite!",
+    message: "Hello World Ignite ‒ Fundamentos NodeJS!",
   });
 });
 
